@@ -1,0 +1,452 @@
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.exe
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.deps.json
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.runtimeconfig.json
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.runtimeconfig.dev.json
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.pdb
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csprojAssemblyReference.cache
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.AssemblyInfoInputs.cache
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.AssemblyInfo.cs
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.RazorTargetAssemblyInfo.cache
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\staticwebassets\coreIdentity.StaticWebAssets.Manifest.cache
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\staticwebassets\coreIdentity.StaticWebAssets.xml
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.pdb
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.genruntimeconfig.cache
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csproj.CopyComplete
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csproj.CoreCompileInputs.cache
+F:\ID-1251038\Module-11\Class Practices\clp_R\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.MvcApplicationPartsAssemblyInfo.cache
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.exe
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.deps.json
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.runtimeconfig.json
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.runtimeconfig.dev.json
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.pdb
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csprojAssemblyReference.cache
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.AssemblyInfoInputs.cache
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.AssemblyInfo.cs
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.RazorTargetAssemblyInfo.cache
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csproj.CopyComplete
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\staticwebassets\coreIdentity.StaticWebAssets.Manifest.cache
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\staticwebassets\coreIdentity.StaticWebAssets.xml
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.pdb
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.genruntimeconfig.cache
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csproj.CoreCompileInputs.cache
+D:\ESAD-Csharp\Esad_41\Class\MOdule_09\R41_M09_CoreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.MvcApplicationPartsAssemblyInfo.cache
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\appsettings.json
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.exe
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.deps.json
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.runtimeconfig.json
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.runtimeconfig.dev.json
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.pdb
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.AssemblyInfoInputs.cache
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.AssemblyInfo.cs
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csproj.CoreCompileInputs.cache
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.MvcApplicationPartsAssemblyInfo.cache
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.RazorTargetAssemblyInfo.cache
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csproj.CopyComplete
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\staticwebassets\coreIdentity.StaticWebAssets.Manifest.cache
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\staticwebassets\coreIdentity.StaticWebAssets.xml
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.dll
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.pdb
+E:\IDB_CoreCourse\Project_Himel\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.genruntimeconfig.cache
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.exe
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.deps.json
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.runtimeconfig.json
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.runtimeconfig.dev.json
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\coreIdentity.pdb
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csprojAssemblyReference.cache
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.AssemblyInfoInputs.cache
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.AssemblyInfo.cs
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csproj.CoreCompileInputs.cache
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.MvcApplicationPartsAssemblyInfo.cache
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.RazorTargetAssemblyInfo.cache
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.csproj.CopyComplete
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\staticwebassets\coreIdentity.StaticWebAssets.Manifest.cache
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\staticwebassets\coreIdentity.StaticWebAssets.xml
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.dll
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.pdb
+F:\Himel\project\coreIdentity\coreIdentity\coreIdentity\coreIdentity\obj\Debug\netcoreapp3.1\coreIdentity.genruntimeconfig.cache

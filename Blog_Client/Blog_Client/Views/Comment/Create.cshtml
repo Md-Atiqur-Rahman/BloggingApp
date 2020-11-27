@@ -1,0 +1,55 @@
+﻿@model Blog_Client.Models.Comment
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Comment</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CommentMessage" class="control-label"></label>
+                <input asp-for="CommentMessage" class="form-control" />
+                <span asp-validation-for="CommentMessage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CommentBy" class="control-label"></label>
+                <input asp-for="CommentBy" class="form-control" />
+                <span asp-validation-for="CommentBy" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PostedDate" class="control-label"></label>
+                <input asp-for="PostedDate" class="form-control" />
+                <span asp-validation-for="PostedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PostID" class="control-label"></label>
+                @*<input asp-for="PostID" class="form-control" />*@
+
+                
+                <select class="form-control" id="PostID" asp-items="@ViewBag.post"  asp-for="PostID">
+                    <option>Please select one</option>
+                </select>
+                @*@Html.DropDownListFor(model => model.PostID, (SelectList)ViewBag.post)*@
+                <span asp-validation-for="PostID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
